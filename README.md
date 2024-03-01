@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @tharakal352
-- 👀 I’m interested in software development
+- 👋 Hi, I’m @tharaka
+- 👀 I’m interested in software development 
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ Collaborating with others who share your interests can lead to wonderful projects.
+- 😄 Pronouns:  Do you have preferred pronouns?
+- ⚡ Fun fact: "Did you know? The term 'bug' in computer science originated when Grace Hopper
+      found a real moth stuck in a computer relay, coining the term 'debugging' to fix glitches.🐛💻 
 
-<!---
-tharakal352/tharakal352 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
